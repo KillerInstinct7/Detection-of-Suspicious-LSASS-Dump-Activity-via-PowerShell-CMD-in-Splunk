@@ -1,0 +1,1 @@
+index="detection_lab2" (Image="*powershell.exe" OR Image="*cmd.exe") CurrentDirectory="*\\temp\\" CommandLine="*lsass.DMP*"
